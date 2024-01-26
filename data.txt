@@ -1,0 +1,10 @@
+Run Time: 0s 	 Switch State = 1 
+Run Time: 1s 	 Switch State = 1 
+Run Time: 2s 	 Switch State = 1 
+Run Time: 3s 	 Switch State = 1 
+Run Time: 4s 	 Switch State = 1 
+Run Time: 5s 	 Switch State = 0 
+Run Time: 6s 	 Switch State = 0 
+Run Time: 7s 	 Switch State = 0 
+Run Time: 8s 	 Switch State = 0 
+Run Time: 9s 	 Switch State = 1 
